@@ -2,7 +2,7 @@
 
 > A Claude AI skill that helps IT Business Analysts **scope, analyze, and document Use Cases** in English Markdown, following the industry-standard 13-field template (Karl Wiegers / IIBA style) with best practices from Alistair Cockburn's *Writing Effective Use Cases*.
 >
-> Developed by **Phúc NT** for the **Digital School** program · **BA Zone** — Vietnam's Business Analyst & Product Owner community.
+> Developed by **Phúc NT** for the **BA Zone** — Vietnam's Business Analyst & Product Owner community.
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange)](https://claude.ai)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
